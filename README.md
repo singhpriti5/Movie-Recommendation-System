@@ -1,2 +1,2 @@
 # MovieRecommendationSystem
-A movie recommendation system using item-item collaborative filtering in python.
+A Movie Recommendation System using item-item collaborative filtering in Python.
